@@ -1,3 +1,2 @@
 Diabetes-Prediction-ML-Flask-MLFlow
-
-<img width="1696" height="960" alt="image" src="https://github.com/user-attachments/assets/372c01f0-c857-45e2-85b1-41abb6e4cefa" />
+<img width="729" height="466" alt="image" src="https://github.com/user-attachments/assets/abb06053-7fa3-4bd1-902e-a907dd147465" />
